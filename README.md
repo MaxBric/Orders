@@ -1,7 +1,7 @@
 # Orders API
 A PHP Laravel project to manage customers, orders and subscriptions entities.
 
-##Why
+## Why
 This is my first project with Laravel.\
 I tried using it to have my own opinion. 
 It works like Symfony in a lot of aspects. I found it more relevant to try it because you use it.\
